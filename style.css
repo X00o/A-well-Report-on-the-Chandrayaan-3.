@@ -1,0 +1,10 @@
+body,.accordion-item{
+    background-image: linear-gradient(to right, #f4c3307d , white , rgba(0, 128, 0, 0.425));
+}
+.img{
+    width: 96%;
+    
+}
+.trow{
+   display : flex;
+}
